@@ -13,7 +13,7 @@
 ### Lenguajes y herramientas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,nextjs," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,nextjs,bootstrap,sql,apirest,figma,canva" />
   </a>
 </p>
 <!--
