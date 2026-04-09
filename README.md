@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning **modern frontend architectures**
 - 🤝 I am looking to collaborate on **React and professional web development** projects.
-- 📫 How to contact me: **[jierrecart5@gmail.com]**
+- 📫 How to contact me: **jierrecart5@gmail.com**
 
 ### Conecta conmigo:
 <a href="www.linkedin.com/in/juan-ignacio-errecart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 ### Lenguajes y herramientas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,nextjs,bootstrap,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,nextjs,bootstrap,mysql,node,figma" />
   </a>
 </p>
 <!--
