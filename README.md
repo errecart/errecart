@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+<h1 align="center">Hola 👋, soy Juan Ignacio Errecart</h1>
+<h3 align="center">Frontend Developer & UX/UI Design in Argentina</h3>
+
+- 🌱 I am currently learning **modern frontend architectures**
+- 🤝 I am looking to collaborate on **React and professional web development** projects.
+- 📫 How to contact me: **[jierrecart5@gmail.com]**
+
+### Conecta conmigo:
+<a href="www.linkedin.com/in/juan-ignacio-errecart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
+### Lenguajes y herramientas:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,vite" />
+  </a>
+</p>
 <!--
 **errecart/errecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
