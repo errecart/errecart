@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="left">Hello 👋, I'm Juan Ignacio Errecart</h1>
 <h3 align="left">Frontend Developer & UX/UI Design in Argentina</h3>
