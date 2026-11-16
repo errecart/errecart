@@ -1,31 +1,87 @@
+<!-- HEADER -->
+<div align="center">
 
-<h1 align="left">Hello 👋, I'm Juan Ignacio Errecart</h1>
-<h3 align="left">Frontend Developer & UX/UI Design in Argentina</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Juan%20Ignacio%20Errecart&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%26%20UX%2FUI%20Designer&descSize=18&descAlignY=58&animation=fadeIn" alt="Juan Ignacio Errecart - Frontend Developer & UX/UI Designer" width="100%" />
 
-- 🌱 I am currently learning **modern frontend architectures**
-- 🤝 I am looking to collaborate on **React and professional web development** projects.
-- 📫 How to contact me: **jierrecart5@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=560&height=40&lines=Frontend+Developer;UX%2FUI+Designer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Learning+modern+frontend+architectures" alt="Frontend Developer · UX/UI Designer · React, Next.js, TypeScript" />
 
-### Conecta conmigo:
-<a href="www.linkedin.com/in/juan-ignacio-errecart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<br />
 
-### Lenguajes y herramientas:
-<p align="left">
-  <a href="/">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,git,tailwind,nextjs,bootstrap,mysql,nodejs,figma,netlify" />
-  </a>
-</p>
-<!--
-**errecart/errecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/juan-ignacio-errecart">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jierrecart5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👋 About me
+
+I design and build clean, user-centered web interfaces, bridging **UX/UI design** and **frontend code**. Based in Argentina 🇦🇷.
+
+- 🌱 Currently learning **modern frontend architectures**
+- 🤝 Looking to collaborate on **React** and professional web development projects
+- 🎨 Design-to-code workflow with **Figma**
+
+<!-- TECH STACK -->
+## 🛠️ Tech stack
+
+<div align="center">
+
+**Frontend**<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML, CSS, Sass, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap" />
+</picture>
+
+<br /><br />
+
+**Backend & Database**<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Node.js, MySQL" />
+</picture>
+
+<br /><br />
+
+**Design & Tools**<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,git,netlify&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,git,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,git,netlify&theme=dark" alt="Figma, Git, Netlify" />
+</picture>
+
+</div>
+
+<!-- GITHUB STATS -->
+## 📊 GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=errecart&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=errecart&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=errecart&theme=github_dark" alt="GitHub profile details" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=errecart&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=errecart&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=errecart&theme=github_dark" alt="Most used languages" width="48%" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=errecart&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=errecart&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=errecart&theme=dark&hide_border=true" alt="GitHub contribution streak" />
+</picture>
+
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer" alt="" width="100%" />
