@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Juan%20Ignacio%20Errecart&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%26%20UX%2FUI%20Designer&descSize=18&descAlignY=58&animation=fadeIn" alt="Juan Ignacio Errecart - Frontend Developer & UX/UI Designer" width="100%" />
 
+<img src="https://images.weserv.nl/?url=github.com/errecart.png&w=160&h=160&fit=cover&mask=circle" alt="Juan Ignacio Errecart - Frontend Developer & UX/UI Designer" width="140" height="140"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&width=560&height=40&lines=Frontend+Developer;UX%2FUI+Designer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Learning+modern+frontend+architectures" alt="Frontend Developer · UX/UI Designer · React, Next.js, TypeScript" />
 
 <br />
